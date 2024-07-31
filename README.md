@@ -41,11 +41,3 @@ after saving the contact:-
 You can search also the contact from the contact List:-
 
 <img width="250" src="https://github.com/user-attachments/assets/70b94659-3f43-4d58-a374-c0e0af52b49f">
-
-
-SCREEN RECORDING of this Application:-
-
-https://github.com/user-attachments/assets/70b94659-3f43-4d58-a374-c0e0af52b49f
-
-
-
