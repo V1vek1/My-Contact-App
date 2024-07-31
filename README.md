@@ -38,7 +38,9 @@ after saving the contact:-
 
 <img width="250" src="https://github.com/user-attachments/assets/a591665d-3182-454b-8b20-d60abd066b4a">
 
+You can search also the contact from the contact List:-
 
+<img width="250" src="https://github.com/user-attachments/assets/70b94659-3f43-4d58-a374-c0e0af52b49f">
 
 
 
