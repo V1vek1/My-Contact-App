@@ -1,3 +1,5 @@
+If you want to test this project without compile and adding the project in Android Studio so, download the app-debug.apk from this code
+
 This is a Contact App. In this Applicarion you can save Contact Details with Photos, Name, Phone number, Email.
 
 This Application is created in Kotlin with MVVM Architecture.
