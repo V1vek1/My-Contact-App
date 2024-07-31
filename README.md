@@ -20,4 +20,14 @@ This is the First screen of this App :-
 
 <img width="250" src="https://github.com/user-attachments/assets/1dfe8ef2-8b2c-4cdd-bbf3-e7d7899c6ed6">
 
+2. for save the contact you need to click on + icon that you can see on the right side of the bottom then you can see this scrren :-
 
+<img width="250" src="https://github.com/user-attachments/assets/2e79b230-6528-4577-adec-e9bd5763757b">
+
+for adding the image of cantact so, click on the image icon and then you can see the popup of option of camera or Gallery :-
+
+<img width="250" src="https://github.com/user-attachments/assets/4481ec3c-82a8-4a23-8d31-cb516af24930">
+
+After adding the image you can add the name, phone number, email of the person:-
+
+<img width="250" src="https://github.com/user-attachments/assets/774f2644-104e-472b-824e-b8b6635f64e2">
