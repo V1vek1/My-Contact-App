@@ -31,3 +31,15 @@ for adding the image of cantact so, click on the image icon and then you can see
 After adding the image you can add the name, phone number, email of the person:-
 
 <img width="250" src="https://github.com/user-attachments/assets/774f2644-104e-472b-824e-b8b6635f64e2">
+
+after saving the contact:-
+
+<img width="250" src="https://github.com/user-attachments/assets/92d91b05-64a7-4535-991c-291381228f46">
+
+<img width="250" src="https://github.com/user-attachments/assets/a591665d-3182-454b-8b20-d60abd066b4a">
+
+
+
+
+
+
